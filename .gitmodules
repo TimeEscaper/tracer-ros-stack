@@ -1,6 +1,7 @@
 [submodule "src/ugv_sdk"]
 	path = src/ugv_sdk
 	url = https://github.com/westonrobot/ugv_sdk.git
+	branch = main
 [submodule "src/tracer_ros2"]
 	path = src/tracer_ros2
 	url = https://github.com/agilexrobotics/tracer_ros2.git
